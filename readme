@@ -1,0 +1,2 @@
+andrei@Azure:~$ echo -n 'mediumpostgres' | base64
+bWVkaXVtcG9zdGdyZXM=
